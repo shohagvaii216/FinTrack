@@ -1,0 +1,8 @@
+{
+  "name": "FinTrack",
+  "description": "A world-class, feature-rich financial assistant with AI-powered OCR, voice commands, shared wallets, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
